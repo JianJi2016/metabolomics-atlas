@@ -1,0 +1,27 @@
+#titleBar {
+    background-color: #1A3E68;
+    border-bottom: 5px solid #DFC166;
+    margin-bottom: 1.5rem;
+}
+
+#titleBar .col-sm-12 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    display: flex;
+    align-items: center;
+}
+
+#titleBar h2 {
+    display: inline;
+    color: #FFCD00;
+    font-size: 32px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#titleBar img {
+    width: 350px;
+    padding-right: 2em;
+}
