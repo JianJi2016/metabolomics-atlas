@@ -1,0 +1,13 @@
+name: metabolomics-atlas
+title: metabolomics-atlas
+username:
+account: jijian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4274146
+bundleId: 4718389
+url: https://jijian.shinyapps.io/metabolomics-atlas/
+when: 1623752873.6424
+lastSyncTime: 1623752873.6424
+asMultiple: FALSE
+asStatic: FALSE
